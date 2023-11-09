@@ -13,7 +13,7 @@ function Nav() {
     <nav className=' w-1/3 justify-end'>
         <div>
             <ul className='hidden w-full justify-between md:flex'>
-                <li><a href="/about">About us</a></li>
+                <li><a href="/home">About us</a></li>
                 <li><a href="/services ">Services</a></li>
                 <li><a href="/career">Careers</a></li>
             </ul>
